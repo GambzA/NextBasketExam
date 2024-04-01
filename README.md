@@ -1,6 +1,7 @@
 
 
 ## Test 1 (UI)
+ - Project location: `NextBasketRoi`
 ### Pre-req
  - 1. .NET version 8.0
  - 2. Selenium.WebDriver" Version="4.19.0"

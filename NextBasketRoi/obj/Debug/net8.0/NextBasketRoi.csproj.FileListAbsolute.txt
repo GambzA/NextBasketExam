@@ -207,3 +207,4 @@ c:\NextBasket\NextBasketRoi\bin\Debug\net8.0\Gherkin.dll
 c:\NextBasket\NextBasketRoi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 c:\NextBasket\NextBasketRoi\bin\Debug\net8.0\TechTalk.SpecFlow.dll
 c:\NextBasket\NextBasketRoi\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+C:\NextBasket\NextBasketRoi\obj\Debug\net8.0\NextBasketRoi.sourcelink.json

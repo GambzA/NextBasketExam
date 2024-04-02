@@ -16,3 +16,4 @@ C:\NextBasket\RestSharpExam\obj\Debug\net8.0\refint\RestSharpExam.dll
 C:\NextBasket\RestSharpExam\obj\Debug\net8.0\RestSharpExam.pdb
 C:\NextBasket\RestSharpExam\obj\Debug\net8.0\RestSharpExam.genruntimeconfig.cache
 C:\NextBasket\RestSharpExam\obj\Debug\net8.0\ref\RestSharpExam.dll
+c:\NextBasket\RestSharpExam\obj\Debug\net8.0\RestSharpExam.sourcelink.json

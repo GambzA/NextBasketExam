@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zGgyDZ0KYtQ39dftzCsXipVmdfCxrvpXGK38gx46zute/owGYAN2lCgOvk42zjZjO9RA6y76j43atPQOtCwKxA==",
+  "dgSpecHash": "7XvkGcNOETEAXtAzBWTvdC7USItthVhtFY15JjpD5afp3rcGEZXwv4y2vKz81VfSnrqMM9Alp9sVZLqheV9Izw==",
   "success": true,
-  "projectFilePath": "C:\\NextBasket\\RestSharpExam\\RestSharpExam.csproj",
+  "projectFilePath": "c:\\NextBasket\\RestSharpExam\\RestSharpExam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roi Mark Gamba\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Roi Mark Gamba\\.nuget\\packages\\restsharp\\110.2.1-alpha.0.16\\restsharp.110.2.1-alpha.0.16.nupkg.sha512",

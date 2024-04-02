@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NextBasket\\RestSharpExam\\RestSharpExam.csproj": {}
+    "c:\\NextBasket\\RestSharpExam\\RestSharpExam.csproj": {}
   },
   "projects": {
-    "C:\\NextBasket\\RestSharpExam\\RestSharpExam.csproj": {
+    "c:\\NextBasket\\RestSharpExam\\RestSharpExam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NextBasket\\RestSharpExam\\RestSharpExam.csproj",
+        "projectUniqueName": "c:\\NextBasket\\RestSharpExam\\RestSharpExam.csproj",
         "projectName": "RestSharpExam",
-        "projectPath": "C:\\NextBasket\\RestSharpExam\\RestSharpExam.csproj",
+        "projectPath": "c:\\NextBasket\\RestSharpExam\\RestSharpExam.csproj",
         "packagesPath": "C:\\Users\\Roi Mark Gamba\\.nuget\\packages\\",
-        "outputPath": "C:\\NextBasket\\RestSharpExam\\obj\\",
+        "outputPath": "c:\\NextBasket\\RestSharpExam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Roi Mark Gamba\\AppData\\Roaming\\NuGet\\NuGet.Config"
